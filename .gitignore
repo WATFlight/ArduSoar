@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# rendered demo artifacts (regenerable)
+output/
+
+# weather pipeline artifacts
+weather/data/
+weather/prior_latest.json
+
+# SITL / companion run artifacts (regenerable)
+sitl/soaring_log.csv
+companion/sitl_prior.json
+
+# planner output routes (regenerable)
+planner/routes/
