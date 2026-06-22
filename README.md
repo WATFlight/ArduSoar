@@ -87,3 +87,7 @@ python -m pytest tests                  # unit tests (59 passing)
 This project is derived from the original AutoGlide repository by Sahil Kale. The original author is not affiliated with, endorsing, collaborating on, or currently involved in this derivative project.
 
 Original repository: [AutoGlide](https://github.com/sahil-kale/autoglide)
+
+## Reuse
+This repository may be copied, modified, and used to create derivative works for non-commercial purposes only, provided clear attribution to the original repository and author is maintained.
+Such attribution must not imply endorsement, collaboration, or ongoing involvement by the original author.
